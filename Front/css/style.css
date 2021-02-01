@@ -1,0 +1,32 @@
+
+.form-container {
+  padding-top: 20px;
+  display: block;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.style-form {
+  width: 100%;
+}
+
+.style-form__input {
+  width: 100%; 
+  padding: 10px 0;
+}
+
+.input-submit {
+  padding: 10px; 
+  border: solid 1px #eee;
+  border-radius: 5px;
+}
+
+.input-submit:hover {
+  background: #B0B0B0;
+  cursor: pointer;
+}
+
+.input-submit:active {
+  background: #eee;
+}
+
